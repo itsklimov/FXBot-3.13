@@ -5,7 +5,7 @@
 ### This repo relies on submodules. To clone it properly, run:
 
 ```
-git clone --recurse-submodules -j8 https://github.com/trentstauff/FXBot
+git clone --recurse-submodules -j8 https://github.com/itsklimov/FXBot-3.13
 ```
 # FXBot
 
