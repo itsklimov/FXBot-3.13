@@ -6,7 +6,7 @@ import pytz
 import tpqoa
 import matplotlib.pyplot as plt
 
-plt.style.use("seaborn")
+plt.style.use("seaborn-v0_8-ticks")
 
 
 class LiveTrader(tpqoa.tpqoa):
