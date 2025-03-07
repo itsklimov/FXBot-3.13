@@ -1,0 +1,3 @@
+[submodule "tpqoa"]
+	path = tpqoa
+	url = https://github.com/itsklimov/tpqoa-3.13.git
